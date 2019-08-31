@@ -21,5 +21,7 @@ echo "               = PASSWORD = SUCCES"
 echo "               ============"
 sleep 2
 clear
-bash 7.sh
+figlet succes |lolcat
+sleep 3
+clear
 exit
